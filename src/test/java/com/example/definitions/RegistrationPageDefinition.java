@@ -114,6 +114,5 @@ public class RegistrationPageDefinition {
         System.out.println("Registration successful");
     }
 
-
 }
 

@@ -7,6 +7,6 @@ import org.junit.runner.RunWith;
 @RunWith(CucumberWithSerenity.class)
 @CucumberOptions(plugin = { "pretty" }, features = "src/test/resources/features/",
         glue="com.example.definitions",
-         tags="@Signin or @Top250Movies")
+         tags= "@Signin or @Top250Movies")
 
 public class SerenityRunnerTests {}
