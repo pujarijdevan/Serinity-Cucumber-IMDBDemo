@@ -1,6 +1,6 @@
 # SerenityCucumberJUnit4_Demo
 
-This is a sample application to demonstrate how to setup and run Serenity, Cucumber tests with JUnit4 in Web application.
+This is a sample serenity application to demonstrate Automation of IMDB web application run Serenity, Cucumber tests with JUnit4 in Web application.
 
 1. This framework consists of:
 ````
